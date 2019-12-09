@@ -2,7 +2,7 @@
 
 ## 2019/12
 
-- [longman3000](https://github.com/healthypackrat/longman3000)
+- [longman-communication-3000](https://github.com/healthypackrat/longman-communication-3000)
     - [Longman Communication 3000](https://www.google.com/search?q=Longman+Communication+3000)のJSONデータ
 
 ## 2019/11
