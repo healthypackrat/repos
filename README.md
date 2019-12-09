@@ -2,6 +2,8 @@
 
 ## 2019/12
 
+- [longman-american-defining-vocabulary](https://github.com/healthypackrat/longman-american-defining-vocabulary)
+    - [The Longman American Defining Vocabulary](http://www.longmandictionariesusa.com/longman/defining_vocabulary)のJSONデータ
 - [longman-communication-3000](https://github.com/healthypackrat/longman-communication-3000)
     - [Longman Communication 3000](https://www.google.com/search?q=Longman+Communication+3000)のJSONデータ
 
