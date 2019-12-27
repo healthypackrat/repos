@@ -68,7 +68,7 @@
 ## 2019/05
 
 - [sicp](https://github.com/healthypackrat/sicp)
-    - [計算機プログラムの構造と解釈 第2版](https://www.shoeisha.co.jp/book/detail/9784798135984)の演習問題の解答
+    - [計算機プログラムの構造と解釈 第2版](https://sicp.iijlab.net)の演習問題の解答
 
 ## 2019/04
 
