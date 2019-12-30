@@ -82,7 +82,7 @@
 
 - [pdf\_outline\_editor](https://github.com/healthypackrat/pdf_outline_editor)
     - PDFの目次をJSON/YAMLファイルから設定するライブラリ
-    - RubyGems: <https://rubygems.org/gems/pdf_outline_editor>
+    - ♦️ RubyGems: <https://rubygems.org/gems/pdf_outline_editor>
 - [railscasts-dl](https://github.com/healthypackrat/railscasts-dl)
     - [Railscasts](http://railscasts.com/)の動画をダウンロードするシェルスクリプト
 
@@ -90,7 +90,7 @@
 
 - [duo\_splitter](https://github.com/healthypackrat/duo_splitter)
     - [DUO 3.0 CD/復習用](https://www.amazon.co.jp/dp/4900790079)の音声を例文ごとに分割するライブラリ
-    - RubyGems: <https://rubygems.org/gems/duo_splitter>
+    - ♦️ RubyGems: <https://rubygems.org/gems/duo_splitter>
 
 ## 2018/10
 
