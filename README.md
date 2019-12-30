@@ -11,25 +11,25 @@
 
 - [any\_docs\_table](https://github.com/healthypackrat/any_docs_table)
     - 各種ドキュメントの文字数を表示
-    - 🛠 デモ: <https://healthypackrat.github.io/any_docs_table/>
+    - 💪 デモ: <https://healthypackrat.github.io/any_docs_table/>
 - [rubygems-class-table](https://github.com/healthypackrat/rubygems-class-table)
     - 各RubyGemsライブラリのドキュメンテーションコメントの文字数を表示
-    - 🛠 デモ: <https://healthypackrat.github.io/rubygems-class-table/>
+    - 💪 デモ: <https://healthypackrat.github.io/rubygems-class-table/>
 
 ## 2019/10
 
 - [redux-and-typescript-example](https://github.com/healthypackrat/redux-and-typescript-example)
     - [Redux & Typescript example](https://redux.js.org/recipes/usage-with-typescript)の写経
-    - 🛠 デモ: <https://healthypackrat.github.io/redux-and-typescript-example/>
+    - 💪 デモ: <https://healthypackrat.github.io/redux-and-typescript-example/>
 - [todo-app-typescript](https://github.com/healthypackrat/todo-app-typescript)
     - [TypeScript+React+Reduxチュートリアル · nametake.info](https://nametake.github.io/posts/2018/12/05/typescript-react-redux-tutorial/)の写経
-    - 🛠 デモ: <https://healthypackrat.github.io/todo-app-typescript/>
+    - 💪 デモ: <https://healthypackrat.github.io/todo-app-typescript/>
 - [edupa\_math\_data](https://github.com/healthypackrat/edupa_math_data)
     - [高校数学標準講義](http://edupa.org/?p=4904)の動画URLと再生時間のデータ
 - [rails-class-table-v2](https://github.com/healthypackrat/rails-class-table-v2)
     - [Ruby on Rails API](https://api.rubyonrails.org/)のドキュメンテーションコメントの文字数を表示
     - [rails-class-table](https://github.com/healthypackrat/rails-class-table)をReact/Reduxで書き直したもの
-    - 🛠 デモ: <https://healthypackrat.github.io/rails-class-table-v2/>
+    - 💪 デモ: <https://healthypackrat.github.io/rails-class-table-v2/>
 - [rails-class-table-data](https://github.com/healthypackrat/rails-class-table-data)
     - [rails-class-table-v2](https://github.com/healthypackrat/rails-class-table-v2)用のデータを生成
 
@@ -37,28 +37,28 @@
 
 - [redux-real-world-example](https://github.com/healthypackrat/redux-real-world-example)
     - [Redux Real World Example](https://github.com/reduxjs/redux/tree/master/examples/real-world)の写経
-    - 🛠 デモ: <https://healthypackrat.github.io/redux-real-world-example/>
+    - 💪 デモ: <https://healthypackrat.github.io/redux-real-world-example/>
 
 ## 2019/08
 
 - [edupa-math-vlc](https://github.com/healthypackrat/edupa-math-vlc)
     - [高校数学標準講義](http://edupa.org/?p=4904)の動画を[iOSのVLC](https://apps.apple.com/jp/app/vlc-for-mobile/id650377962)で開くためのリンク集
-    - 🛠 デモ: <https://healthypackrat.github.io/edupa-math-vlc/>
+    - 💪 デモ: <https://healthypackrat.github.io/edupa-math-vlc/>
 - [redux-shopping-cart-example](https://github.com/healthypackrat/redux-shopping-cart-example)
     - [Redux Shopping Cart Example](https://github.com/reduxjs/redux/tree/master/examples/shopping-cart)の写経
-    - 🛠 デモ: <https://healthypackrat.github.io/redux-shopping-cart-example/>
+    - 💪 デモ: <https://healthypackrat.github.io/redux-shopping-cart-example/>
 - [redux-async-example](https://github.com/healthypackrat/redux-async-example)
     - [Redux Async Example](https://github.com/reduxjs/redux/tree/master/examples/async)の写経
-    - 🛠 デモ: <https://healthypackrat.github.io/redux-async-example/>
+    - 💪 デモ: <https://healthypackrat.github.io/redux-async-example/>
 
 ## 2019/07
 
 - [todo-app-with-redux](https://github.com/healthypackrat/todo-app-with-redux)
     - [React Redux Basic Tutorial](https://react-redux.js.org/introduction/basic-tutorial)の写経
-    - 🛠 デモ: <https://healthypackrat.github.io/todo-app-with-redux/>
+    - 💪 デモ: <https://healthypackrat.github.io/todo-app-with-redux/>
 - [nagaoka-math-book](https://github.com/healthypackrat/nagaoka-math-book)
     - [長岡の教科書 数学I+A/II+B/III 全解説](https://www.obunsha.co.jp/service/nagaoka/other.html)の音声の再生時間一覧
-    - 🛠 デモ: <https://healthypackrat.github.io/nagaoka-math-book/>
+    - 💪 デモ: <https://healthypackrat.github.io/nagaoka-math-book/>
 
 ## 2019/06
 
@@ -76,7 +76,7 @@
     - 分割した[DUO 3.0 CD/復習用](https://www.amazon.co.jp/dp/4900790079)の音声に例文を歌詞として設定するスクリプト
 - [duo-ldoce](https://github.com/healthypackrat/duo-ldoce)
     - DUO 3.0の見出し語の発音を確認
-    - 🛠 デモ: <https://healthypackrat.github.io/duo-ldoce/>
+    - 💪 デモ: <https://healthypackrat.github.io/duo-ldoce/>
 
 ## 2019/02
 
@@ -96,7 +96,7 @@
 
 - [rails-class-table](https://github.com/healthypackrat/rails-class-table)
     - [Ruby on Rails API](https://api.rubyonrails.org/)のドキュメンテーションコメントの文字数を表示
-    - 🛠 デモ: <https://healthypackrat.github.io/rails-class-table/>
+    - 💪 デモ: <https://healthypackrat.github.io/rails-class-table/>
 
 ## 2018/09
 
