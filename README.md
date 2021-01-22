@@ -1,5 +1,16 @@
 # 作ったリポジトリの一覧
 
+## 2021/01
+
+- [safari\_bookmarks\_parser](https://github.com/healthypackrat/safari_bookmarks_parser)
+    - `~/Library/Safari/Bookmarks.plist`をパースするライブラリ
+    - ♦️ RubyGems: <https://rubygems.org/gems/safari_bookmarks_parser>
+
+## 2020/10
+
+- [ticketee\_rails\_6](https://github.com/healthypackrat/ticketee_rails_6)
+    - [Active Rails](https://leanpub.com/rails)の写経
+
 ## 2020/05
 
 - [pdf-outlines](https://github.com/healthypackrat/pdf-outlines)
